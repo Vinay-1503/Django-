@@ -1,1 +1,1 @@
-erer
+Basic App Using Django Framework
